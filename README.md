@@ -1,2 +1,2 @@
 # myfirstrepo
- my first repo ppol 8101
+My first repository. PPOL 8101.
